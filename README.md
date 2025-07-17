@@ -1,6 +1,8 @@
 # paper
 论文合集
 
+阅读以下论文，成果为读后总结文档，模板见：https://github.com/boss-AIRD-InternshipTutorial/paper/blob/main/%E8%AE%BA%E6%96%87%E6%80%BB%E7%BB%93%E6%A8%A1%E6%9D%BF.md
+
 # 基础：
 
 transformer：《Attention Is All You Need》 https://arxiv.org/pdf/1706.03762
